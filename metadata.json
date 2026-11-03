@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "Generate fantasy characters with names and classes like Mage, Warrior, and Rogue with a single click.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
