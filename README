@@ -1,0 +1,172 @@
+# 🧙 Fantasy Character Generator
+
+An AI-powered fantasy character creation application built with **Google AI Studio and Gemini**. Generate unique fantasy characters, create game-style portraits, discover character backstories, and build your own collection of fantasy heroes.
+
+## ✨ Features
+
+- **Random Character Generation:** Generate fantasy characters with unique names and classes such as Mage, Warrior, and Rogue.
+- **AI Character Portraits:** Generate and regenerate cartoon/video-game-style character portraits.
+- **Fantasy-Themed Interface:** An ancient alchemist's workbench-inspired UI with a dark, mystical appearance.
+- **AI-Generated Backstories:** Create unique one-to-two-sentence origin stories for each character.
+- **Character Stats:** Generate random stats for:
+  - ❤️ Health
+  - 🔮 Mana
+  - ⚔️ Strength
+- **Interactive Player Cards:** Display character details, portraits, backstories, and stats in a bordered fantasy card.
+- **My Deck:** Save favourite characters and view your collection of saved character cards.
+
+## 🛠️ Built With
+
+- Google AI Studio
+- Google Gemini
+- AI-assisted application development
+- React / TypeScript (if present in the generated project)
+
+## 🎮 How It Works
+
+1. Open the application.
+2. Click **Generate Character** to create a random fantasy character.
+3. Generate a portrait for the selected character.
+4. Generate a unique backstory.
+5. Explore the character's Health, Mana, and Strength stats.
+6. Click **Save to Deck** to add the character to your collection.
+7. Generate more characters and build your fantasy deck!
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js and npm
+- A compatible Gemini API configuration, if required by the generated project
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/fantasy-character-generator.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd fantasy-character-generator
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Configure any required environment variables using the variable names expected by the generated project. Keep API keys private and never commit `.env` files.
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+*Note: The exact setup commands and environment variables may vary depending on the generated project files.*
+
+## 📸 Screenshots
+
+Add screenshots of your application here:
+
+- Main character generator
+- Generated fantasy portrait
+- Character backstory
+- Player card with stats
+- My Deck collection
+
+## 🎯 Project Objective
+
+This project was developed as part of a Google AI Studio challenge to explore rapid AI-powered application prototyping through natural-language prompting and iterative code generation.
+
+## 🔮 Future Enhancements
+
+- Add fantasy character races such as Elf, Dwarf, and Human.
+- Introduce additional attributes like Intelligence and Charisma.
+- Add character rarity levels.
+- Create fantasy quests based on character backstories.
+- Add deck management and character filtering.
+
+## 👩‍💻 Author
+
+**Jyothika Neerudi**
+
+- GitHub: [Jyothika-07-24](https://github.com/Jyothika-07-24)
+- LinkedIn: [Jyothika Neerudi](https://www.linkedin.com/in/jyothika-neerudi-a38413349/)
+
+---
+
+⭐ If you find this project interesting, consider giving the repository a star!
+
+
+
+
+## 💻 Run the Project Using GitHub Codespaces
+
+You can run the Fantasy Character Generator directly in your browser using GitHub Codespaces. No local installation of Node.js or VS Code is required.
+
+### Step 1: Open the Repository
+
+1. Visit the [Fantasy Character Generator GitHub Repository](https://github.com/Jyothika-07-24/Fantasy-Character-Generator-Google-Cloud).
+2. Click the green **Code** button.
+3. Select the **Codespaces** tab.
+4. Click **Create codespace on main**.
+5. Wait for the Codespace environment to load.
+
+### Step 2: Open the Terminal
+
+Once the Codespace opens:
+
+1. Go to **Terminal** in the top menu.
+2. Select **New Terminal**.
+3. Wait for the terminal to initialize.
+
+### Step 3: Check the Project Files
+
+Run:
+
+```bash
+ls
+```
+
+You should see the project files, including `package.json` if the project uses Node.js.
+
+### Step 4: Install Dependencies
+
+If `package.json` is present, run:
+
+```bash
+npm install
+```
+
+This installs the dependencies required by the project.
+
+### Step 5: Start the Application
+
+Run:
+
+```bash
+npm run dev
+```
+
+### Step 6: Open the Application
+
+1. Wait for the development server to start.
+2. Codespaces will display the forwarded port, usually **5173** for a Vite application.
+3. Open the **Ports** tab in the terminal panel.
+4. Click the browser/open icon next to the forwarded port.
+5. Your Fantasy Character Generator will open in a new browser tab!
+
+### ⚙️ Important Notes
+
+- If the project uses a different development command, check the `scripts` section inside `package.json`.
+- If the application requires a Gemini API key, configure it using the environment variable name expected by the project.
+- Never upload API keys, passwords, or `.env` files to a public GitHub repository.
+
+Happy Character Creating! 🧙✨
